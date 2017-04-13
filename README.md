@@ -61,4 +61,4 @@
 - [Android 名企面试题及涉及知识点整理](https://github.com/helen-x/AndroidInterview)
 
 ### API 集合
-- [你还在愁找不到 Api 接口吗](ttp://mp.weixin.qq.com/s?__biz=MzI0NTcxNTg5Mg==&mid=2247484000&idx=1&sn=4d327cffba6ab055141ef3871a3b4ede&chksm=e94b04bbde3c8dadef62bf44a6f5f91cd336187ee415e3db3084f18ad137d1d7d61da12ac12d&mpshare=1&scene=23&srcid=0315dGehPSm7CF7ayJwLrHLS#rd)
+- [你还在愁找不到 Api 接口吗](http://mp.weixin.qq.com/s?__biz=MzI0NTcxNTg5Mg==&mid=2247484000&idx=1&sn=4d327cffba6ab055141ef3871a3b4ede&chksm=e94b04bbde3c8dadef62bf44a6f5f91cd336187ee415e3db3084f18ad137d1d7d61da12ac12d&mpshare=1&scene=23&srcid=0315dGehPSm7CF7ayJwLrHLS#rd)
